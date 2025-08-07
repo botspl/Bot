@@ -1,0 +1,9 @@
+declare module 'telegraf';
+declare module '@solana/web3.js';
+declare module 'dotenv';
+declare module './userStrategy';
+declare module './bot/types';
+declare module './bot/helpers';
+declare module './bot/strategy';
+declare module './tradeSources';
+declare module './helpMessages';
